@@ -75,7 +75,7 @@ public class ToolTipConverter : IValueConverter
 ```
 
 The following screenshot shows the tooltip display for the disabled cell in TreeGrid,
-![shows the tooltip display for the disabled cell in SfTreeGrid](ExcelFilterUIView.png)
+![shows the tooltip display for the disabled cell in SfTreeGrid](Showstootip.png)
 
 Take a moment to peruse the [WPF TreeGrid – ToolTip](https://help.syncfusion.com/wpf/treegrid/tooltip) documentation, where you can find about tooltip with code examples.
 
