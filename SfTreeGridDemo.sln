@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SfTreeGridDemo", "SfTreeGridDemo.csproj", "{AE46372A-D00F-41DE-B6F3-87BB58BBC6EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE46372A-D00F-41DE-B6F3-87BB58BBC6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE46372A-D00F-41DE-B6F3-87BB58BBC6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE46372A-D00F-41DE-B6F3-87BB58BBC6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE46372A-D00F-41DE-B6F3-87BB58BBC6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F031EBD8-FDA7-47A1-A6D1-71B06A17B7FB}
+	EndGlobalSection
+EndGlobal
