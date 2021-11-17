@@ -79,5 +79,7 @@ The following screenshot shows the tooltip display for the disabled cell in Tree
 
 Take a moment to peruse the [WPF TreeGrid – ToolTip](https://help.syncfusion.com/wpf/treegrid/tooltip) documentation, where you can find about tooltip with code examples.
 
+KB article - [How to show tooltip on the disabled cell in WPF TreeGrid (SfTreeGrid)?](https://www.syncfusion.com/kb/12801/how-to-show-tooltip-on-the-disabled-cell-in-wpf-treegrid-sftreegrid)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
